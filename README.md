@@ -1,2 +1,2 @@
 # ros-robot-arm-control
-Robot Arm Simulation Using ROS That Can Be Manually Controlled Through a GUI.
+This project is prepared for the submission of the first task in the AI & Robotics path of the remote summer training offered by Smart Methods.
